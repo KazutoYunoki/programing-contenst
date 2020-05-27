@@ -1,1 +1,3 @@
-#Atcoderなどの進捗管理
+# Programimg Contetst
+  I manage program of programing contest.
+  For example, Atcoder, AOJ...
